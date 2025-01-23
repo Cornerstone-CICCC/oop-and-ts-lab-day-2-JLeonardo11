@@ -63,7 +63,7 @@ button {
 
 .todo-list li.completed span {
   text-decoration: line-through;
-  color: #aaa;
+  color: blue;
 }
 
 .todo-list button {
